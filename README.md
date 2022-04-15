@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @urieknopf
-- 🌱 I’m currently learning everything.
+- 💻 Software Engiineer
+- 🐍 Python is my favorite language so far..
+- 🐿️ SQL is fun too tho..
+- 🌱 I’m currently learning as much as I can.
