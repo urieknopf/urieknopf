@@ -4,3 +4,4 @@
 - 🐿️ SQL is fun too tho..
 - 🌱 I’m currently learning as much as I can.
 - 🍕 Pizza is a way of life.
+- All my repos are a WIP rn...
