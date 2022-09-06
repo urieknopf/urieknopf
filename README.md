@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @urieknopf
 - 💻 Software Engiineer
 - 🐍 Python is my favorite language so far..
-- 🐿️ SQL is fun too tho..
 - 🌱 I’m currently learning as much as I can.
 - 🍕 Pizza is a way of life.
-- All my repos are a WIP rn...
+- All my repos are a WIP rn... Don't judge me >.<;
