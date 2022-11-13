@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @urieknopf
-- 💻 Software Engiineer
+- 💻 Software Engineer
 - 🐍 Python 
 - 🍕 Pizza 
